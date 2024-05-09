@@ -1,10 +1,6 @@
-"""
-INFS7205 Individual Project
-Semester 1, 2023
-"""
 
 __author__ = "Lok Yee Joey Cheung"
-__email__ = "s4763354@student.uq.edu.au"
+__email__ = "cheunglokyeejoey@gmail.com"
 __date__ = "06/05/2023"
 
 import pandas as pd
