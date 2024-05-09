@@ -2,6 +2,17 @@
 
 This repository contains code and resources for exploring indexing algorithms and enabling efficient retrieval and analysis of spatial-temporal information.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [Contact](#contact)
+- [References](#references)
+
 ## Introduction
 
 With the increasing availability of location-based services and social media platforms, large volumes of check-in data are being generated, providing valuable insights into human mobility patterns and urban dynamics. In this project, we focus on indexing and querying check-in data in New York City to facilitate spatial-temporal analysis and exploration.
